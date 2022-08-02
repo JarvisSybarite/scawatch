@@ -24,7 +24,7 @@ Thi contains the API traces during our running of the SCADA programs, WinSPS and
 This gives information of our FACTORY IO Testbed.
 
 
-(4) MODEL BUILDING
+(4) STL-BASED MODEL BUILDING
 
 This contains code, input, and output of our Dependency Modelling tool.
 
