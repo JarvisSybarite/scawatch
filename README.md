@@ -25,7 +25,7 @@ This gives information of our leveraged FACTORYIO ICS ENGINE, along with the phy
 
 (4) STL-BASED MODEL BUILDING
 
-This contains code, input, and output of our Dependency Modelling tool.
+This contains code, input, and output of our Dependency Modelling tool based on analyzing the STL (i.e., converted from the FBD).
 
 Given an STL, analysis tool builds a device dependency of each process. A sample input STL is given, together with an output dependency file.
 
