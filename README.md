@@ -14,9 +14,8 @@ This contains all SENSOR TRACES from our Experiments, divided into BENIGN and AT
 
 (2) SCADA EXECUTION DATA
 
-This contains Execution Traces, behavior profiles (i.e., to know which module does what), and code that utilizes the profiles
-
-Thi contains the API traces during our running of the SCADA programs, WinSPS and MySCADA. In there you will find the SCADA profiles or identifiers, which are a mapping to identify which API calls are READ or WRITE. 
+This contains Execution Traces, MOD behavior profiles, and code that utilizes the profiles to analyze the traces. The behavior profiles allow our analysis code to know which module does what in terms of mapping of READs or WRITEs control execution.
+  
 
 
 (3) TESTBED
