@@ -1,6 +1,5 @@
 Opened log file 
 
-Microsoft (R) Windows Debugger Version 10.0.22473.1005 X86
 Copyright (c) Microsoft Corporation. All rights reserved.
 
 
