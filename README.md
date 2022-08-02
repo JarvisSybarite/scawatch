@@ -8,13 +8,13 @@ REPO ORGANIZATION:
 
 (1) SENSOR DATA
 
-This contains all SENSOR TRACES from our Experiments, divided into BENIGN and ATTACKS. In the ATTACKS FOLDER, there are are graphical snapshots presented to show when the attacks were injected and the device that experienced the disruption. The SENSOR traces were used to compare against CUSUMs and Invariants, as described in the paper.
+This contains all SENSOR TRACES from our Experiments, divided into BENIGN and ATTACKS. In the ATTACKS FOLDER, there are are graphical snapshots presented to show when the attacks were injected and the device that experienced the disruption. The SENSOR traces were used to compare against CUSUMs and Invariants, as described in the paper. HMI screenshots of the experiments are provided
 
 
 
 (2) SCADA EXECUTION DATA
 
-This contains Execution Traces, behavior profiles (called MODs), and code that utilizes the profiles to analyze the traces. The behavior profiles allow our analysis code to know which module does what in terms of READs or WRITE-bound control execution.
+This contains Execution Traces of SCADA. Execution Behavior profiles (called MODs) are provided which enables the analysis code to know which API modules does what in terms of READs or WRITE-bound control execution. The code that utilizes these profiles are provided to analyze READ and WRITES are also provided. 
   
 
 
