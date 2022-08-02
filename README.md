@@ -1,5 +1,5 @@
 PLEASE READ TO UNDERSTAND HOW THE DIRECTORY IS SETUP
-# scawatch
+# SCAWATCH
 Experimental setup, datasets, and code of the SCAWATCH Paper submission to NDSS 23. 
 
 
@@ -28,6 +28,7 @@ This gives information of our leveraged FACTORYIO ICS ENGINE, along with the phy
 This contains code, input, and output of our Dependency Modelling tool based on analyzing the STL (i.e., converted from the FBD).
 
 Given an STL, analysis tool builds a device dependency of each process. A sample input STL is given, together with an output dependency file.
+
 
 
 
