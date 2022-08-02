@@ -20,7 +20,7 @@ This contains Execution Traces, MOD behavior profiles, and code that utilizes th
 
 (3) TESTBED
 
-This gives information of our FACTORY IO Testbed.
+This gives information of our leveraged FACTORYIO ICS ENGINE, along with the physical processes emulated and how they are emulated.
 
 
 (4) STL-BASED MODEL BUILDING
